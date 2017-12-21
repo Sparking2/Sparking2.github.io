@@ -8,3 +8,37 @@
    background-repeat: no-repeat;
    background-size: cover;
 }
+
+.parallax-welcome{
+  background-image: url("../resources/bg-img.jpg");
+
+  height: 100%;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.welcome{
+  display: flex;
+  position: relative;
+  justify-content: center;
+  height: 100%;
+  /*background-color: white;*/
+}
+
+.welcome-message{
+  height: 50%;
+  width: 50%;
+  background-color: aqua;
+  align-self: center;
+}
+
+.welcome-span{
+  display: block;
+  text-align: center;
+  font-size: 36px;
+  color: black;
+  background-color: red;
+}
