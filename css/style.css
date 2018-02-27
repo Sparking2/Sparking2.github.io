@@ -1085,3 +1085,8 @@
 		#footer .icons a {
 			color: #bbb;
 		}
+
+		/* Logos */ 
+	#logo{
+		background-image: url("../images/banner.jpg");
+	}
