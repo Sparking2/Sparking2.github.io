@@ -1087,6 +1087,8 @@
 		}
 
 		/* Logos */ 
-	#logo{
-		background-image: url("../images/banner.jpg");
-	}
+		i.cita
+		{
+			font-size: 0.90em;
+			color: darkgray;
+		}
