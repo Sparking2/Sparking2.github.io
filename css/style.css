@@ -882,7 +882,7 @@
 	}
 
 	#header {
-		background: #fff;
+		background: rgb(0, 0, 0);
 		color: #555f66;
 		cursor: default;
 		height: 3em;
@@ -896,7 +896,7 @@
 	}
 
 		#header h1 {
-			color: #666f77;
+			color: #c7c7c7;
 			font-weight: 500;
 			height: inherit;
 			left: 1.25em;
@@ -939,7 +939,7 @@
 						-o-transition: color 0.2s ease-in-out;
 						-ms-transition: color 0.2s ease-in-out;
 						transition: color 0.2s ease-in-out;
-						color: #555f66;
+						color: #c7c7c7;
 						display: inline-block;
 						text-decoration: none;
 					}
@@ -978,7 +978,7 @@
 
 	#banner {
 		background-color: #666666;
-		background-image: url("../images/banner.jpg");
+		background-image: url("../images/banner.gif");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -1092,3 +1092,29 @@
 			font-size: 0.90em;
 			color: darkgray;
 		}
+
+		/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.skill-container
+	{
+	width: 100%; /* Full width */
+	background-color: #ddd; /* Grey background */
+	}
+
+.skills {
+    text-align: right; /* Right-align text */
+    padding-right: 20px; /* Add some right padding */
+    line-height: 40px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    color: white; /* White text color */
+}
+
+.csharp {width: 89%; background-color: rgb(0, 122, 255);}
+.cplusplus {width: 60%; background-color: rgb(0, 122, 255);}
+.java {width: 40%; background-color: rgb(0, 122, 255);}
+.unity{width: 80%; background-color: rgb(0, 122, 255);}
+.admon{width: 75%; background-color: rgb(0, 122, 255);}
+.web {width: 60%; background-color:rgb(0, 122, 255);}
+.git{width: 80%; background-color: rgb(0, 122, 255)}
+.php {width: 60%; background-color: rgb(0, 122, 255);} /* Dark Grey */
