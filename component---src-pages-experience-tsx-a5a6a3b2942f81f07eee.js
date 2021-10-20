@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvictor_cortes=self.webpackChunkvictor_cortes||[]).push([[265],{2764:function(e,t,n){n.r(t);var r=n(7294),c=n(7401),u=n(701),l=function(){return r.createElement(r.Fragment,null,r.createElement(c.Z,null))};l.Layout=u.Z,t.default=l}}]);
+//# sourceMappingURL=component---src-pages-experience-tsx-a5a6a3b2942f81f07eee.js.map

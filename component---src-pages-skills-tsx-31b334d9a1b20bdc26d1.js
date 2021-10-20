@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvictor_cortes=self.webpackChunkvictor_cortes||[]).push([[533],{7576:function(e,t,n){n.r(t);var r=n(7294),c=n(701),u=n(946),l=function(){return r.createElement(r.Fragment,null,r.createElement(u.Z,null))};l.Layout=c.Z,t.default=l}}]);
+//# sourceMappingURL=component---src-pages-skills-tsx-31b334d9a1b20bdc26d1.js.map
